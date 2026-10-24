@@ -2,6 +2,8 @@
 
 在 Windows 上控制 Philips 498P9Z 的小工具，用來切換 DP／HDMI 輸入來源，以及調整亮度、螢幕音量和低藍光模式。
 
+![Display Studio 介面示意圖](UI-preview.png)
+
 ## 開始使用
 
 下載專案並解壓縮，首次使用時在專案資料夾執行：
