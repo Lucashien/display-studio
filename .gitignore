@@ -1,0 +1,16 @@
+# Generated launcher (rebuild with BuildLauncher.ps1)
+/MonitorInput.exe
+
+# Local configuration and diagnostics
+/settings.json
+/settings.json.*
+/activity.log*
+/startup-error.txt
+*.tmp
+
+# Editor and OS files
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
